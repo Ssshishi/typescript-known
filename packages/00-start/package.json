@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "tsd --respawn --transpile-only src/index.ts",
+    "dev": "tsnd --respawn --transpile-only src/index.ts",
     "watch": "tsc --watch",
     "check": "tsc --noEmit"
   },
